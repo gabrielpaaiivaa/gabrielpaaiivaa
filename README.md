@@ -26,7 +26,7 @@
 ## 📫 Como me encontrar  
 📧 E-mail: [gabriel.paaiivaa@gmail.com](mailto:gabriel.paaiivaa@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/gabpaiva](https://www.linkedin.com/in/gabpaiva)  
-🐙 GitHub: [github.com/seuusuario](https://github.com/gabrielpaaiivaa)  
+🐙 GitHub: [github.com/gabrielpaaiivaa](https://github.com/gabrielpaaiivaa)  
 
 ---
 
