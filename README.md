@@ -45,4 +45,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielpaaiivaa&show_icons=true&theme=dark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpaaiivaa&layout=compact&theme=dark)  
