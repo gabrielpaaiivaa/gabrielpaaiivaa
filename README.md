@@ -16,7 +16,7 @@
 ## 📌 Projetos em Destaque  
 📂 [Sistema de Consultório Médico em Java](https://github.com/gabrielpaaiivaa/GerenciamentoConsultorioMedico)  
 📂 [Gerenciador de Torneios e-Sports](https://github.com/gabrielpaaiivaa/Gerenciador-de-torneiros-esports)  
-📂 [Aplicação Web com Spring Boot](https://github.com/gabrielpaaiivaa/CadastroDeNinjas)  
+📂 [Gerador de QRCode com SpringBoot e ZXing](https://github.com/gabrielpaaiivaa/gerador-qr-code)  
 
 ## 📚 O que estou aprendendo?  
 - 🚀 **Arquitetura de software em Java**  
